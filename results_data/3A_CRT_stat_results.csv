@@ -1,0 +1,7 @@
+"mutation",".y.","group1","group2","n1","n2","statistic","p","p.adj","p.adj.signif","y.position","groups","x","xmin","xmax","significance_label"
+"Met74Ile","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,46,383,2.61e-05,0.0002088,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",4,3.8,4.2,"***"
+"Lys76Thr","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,46,383,2.61e-05,0.0002088,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",5,4.8,5.2,"***"
+"Ala220Ser","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,45,368.5,5.33e-05,0.0002665,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",6,5.8,6.2,"***"
+"Gln271Glu","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,45,373.5,3.92e-05,0.0002352,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",7,6.8,7.2,"***"
+"Asn326Ser","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,46,322.5,0.00018,0.00072,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",8,7.8,8.2,"***"
+"Arg371Ile","prevalence_percentage","SP Period (1998-2005)","ACT Period (2006-2021)",9,46,388,1.87e-05,0.0001683,"***",110,"SP Period (1998-2005), ACT Period (2006-2021)",9,8.8,9.2,"***"
